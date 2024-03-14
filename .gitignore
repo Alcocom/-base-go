@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+# MacOS Metadata
+.DS_Store
+
+# Vscode IDE Setting
+.vscode
+
+# build directories
+build
